@@ -2,8 +2,7 @@
 #  I'm Mahmoud Elabady
 
 ##  Frontend Developer | React.js | Node.js
-<p>
-I'm passionate about creating responsive and user-friendly web applications. With a  foundation in frontend technologies and a growing expertise in backend development, I'm always eager to take on new challenges and expand my skill set.</p>
+<p>I'm interested in web development, with expertise in frontend technologies and growing expertise in backend development. I'm always eager to take on new challenges and expand my skill set.</p>
  <div align="">
  <a  href="https://www.linkedin.com/in/mahmoud-elabady-272b61239/"> <img  src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"  alt="LinkedIn"  /> </a> <a  href="https://x.com/m7moud_elabady"> <img  src="https://img.shields.io/badge/--0A66C2?style=flat-square&logo=x&logoColor=white"  alt="Twitter"  /> </a></div>
 
