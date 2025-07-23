@@ -1,8 +1,14 @@
+**Software Developer | React.js | Node.js | Express.js**
+
+- Build full-stack apps using React, TypeScript, Node.js, and Express
+-  Work with PostgreSQL and MongoDB depending on the project needs
+-  Enjoy breaking down problems solved 700+ coding challenges on [LeetCode](https://leetcode.com/u/El3bady/) and [HackerRank](https://www.hackerrank.com/profile/melabady199)
+-  Recently having fun learning and building small tools with Golang in my free time
+
+---
 
 
 
-#  Software Developer | React.js | Node.js | Express.js
-<p>I am a Software Developer with practical experience in both frontend and backend development. I have built and optimized full-stack applications using React, TypeScript, Node.js, and databases such as MongoDB and PostgreSQL. My problem-solving skills are demonstrated by solving over 650 coding challenges on LeetCode and HackerRank. I focus on writing clean, efficient code and improving system performance..</p>
  <div align="">
  <a  href="https://www.linkedin.com/in/mahmoud-elabady-272b61239/"> <img  src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"  alt="LinkedIn"  /> </a> 
   
