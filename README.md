@@ -3,7 +3,6 @@
 - Build full-stack apps using React, TypeScript, Node.js, and Express
 - Work with PostgreSQL and MongoDB depending on the project needs
 - Enjoy breaking down problems — solved 700+ coding challenges on [LeetCode](https://leetcode.com/u/El3bady/) and [HackerRank](https://www.hackerrank.com/profile/melabady199)
-- Recently having fun learning and building small tools with Golang in my free time
 
 ---
 
