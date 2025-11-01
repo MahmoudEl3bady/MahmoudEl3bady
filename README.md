@@ -1,8 +1,7 @@
 **Software Developer | React.js | Node.js | Express.js**
 
-- Build full-stack apps using React, TypeScript, Node.js, and Express
-- Work with PostgreSQL and MongoDB depending on the project needs
-- Enjoy breaking down problems — solved 700+ coding challenges on [LeetCode](https://leetcode.com/u/El3bady/) and [HackerRank](https://www.hackerrank.com/profile/melabady199)
+- Build full-stack apps using React, Next, TypeScript, Node.js, and Express
+- Enjoy breaking down problems. solved 700+ coding challenges on [LeetCode](https://leetcode.com/u/El3bady/) and [HackerRank](https://www.hackerrank.com/profile/melabady199)
 
 ---
 
