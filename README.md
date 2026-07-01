@@ -9,7 +9,10 @@
   <a href="https://www.linkedin.com/in/mahmoud-elabady-272b61239/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <a href="https://hashnode.com/@elabadyM">
+    <img src="https://img.shields.io/badge/Hashnode-0A66C2?style=flat-square&logo=Hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+  </div>
 
 ## Skills
 <div align="center">
@@ -20,6 +23,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+     <img src="https://img.shields.io/badge/vue-61DAFB?style=flat-square&logo=vue.js&logoColor=black" alt="Vuejs" />
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST API" />
