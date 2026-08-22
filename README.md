@@ -38,4 +38,4 @@
   </div>
 </div>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahmoudEl3bady&theme=dark&background=000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=MahmoudEl3bady&theme=dark&background=000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
