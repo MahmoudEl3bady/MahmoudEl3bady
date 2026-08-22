@@ -1,4 +1,4 @@
-**Software Developer | React.js | Node.js | Express.js**
+**Full-Stack Developer | React.js, Next.js, Vuejs, Node.js, Express**
 
 - Build full-stack apps using React, Next, TypeScript, Node.js, and Express
 - Enjoy breaking down problems. solved 700+ coding challenges on [LeetCode](https://leetcode.com/u/El3bady/) and [HackerRank](https://www.hackerrank.com/profile/melabady199)
